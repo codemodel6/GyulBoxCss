@@ -1,0 +1,8 @@
+@import "../../../../styles/variables";
+
+.carouselWrapper {
+  @include center;
+  width: 85%;
+  height: 100%;
+  background-color: orange;
+}
